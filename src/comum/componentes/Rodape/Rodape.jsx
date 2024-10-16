@@ -7,7 +7,7 @@ function Rodape() {
     <footer className="rodape_root">
       <h6>
         Copyright © {anoAtual} - Todos os direitos
-        reservados - Eduardo Corrêa Gatti
+        reservados. - Eduardo Correa Gatti
       </h6>
     </footer>
   );
